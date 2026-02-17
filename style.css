@@ -45,6 +45,7 @@ nav p{
 
 #page1{
     position: sticky;
+    top: 0;
     height: 100vh;
     width: 100%;
     display: flex;
